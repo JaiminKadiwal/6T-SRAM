@@ -2,7 +2,7 @@
 
 Part of a summer research internship at NIT Rourkela (May to July 2024, under Dr. Atin Mukherjee). The full
 write-up, comparing this cell with the radiation-hardened HP16T and the HP13T experiment, is in
-[HP13T-fault-tolerence-SRAM-cell](https://github.com/JaiminKadiwal/HP13T-fault-tolerence-SRAM-cell).
+[HP13T-fault-tolerance-SRAM-cell](https://github.com/JaiminKadiwal/HP13T-fault-tolerance-SRAM-cell).
 
 A conventional 6-transistor SRAM cell in 45 nm CMOS, built in Tanner S-Edit and simulated in T-Spice 16.3. It
 gives the reference numbers the hardened cells are compared against: it is the fastest to read but has no
